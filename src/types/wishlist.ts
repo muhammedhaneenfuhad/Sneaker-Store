@@ -1,0 +1,1 @@
+export type WishlistState = string[]; // array of product IDs
